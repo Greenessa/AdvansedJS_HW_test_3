@@ -1,4 +1,4 @@
 
-export function fetchData(url) {
+export function fetchData() {
   throw new Error('Mock this!');
 }
